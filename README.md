@@ -10,9 +10,9 @@ https://github.com/mehreensultana01/Restaurant-Website
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](images/screenshot/home.png)
+![Homepage Screenshot](images/screenshots/home.png)
 
-![Menu Screenshot](images/screenshot/menu.png)
+![Menu Screenshot](images/screenshots/menu.png)
 
 ---
 
