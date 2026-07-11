@@ -62,9 +62,8 @@ https://mehreensultana01.github.io/Restaurant-Website/
 - HTML5
 - CSS3
 - JavaScript
-- Flexbox
-- CSS Grid
-- Responsive Design
+- Git & GitHub
+- GitHub Pages
 
 ---
 
