@@ -14,6 +14,7 @@ https://mehreensultana01.github.io/Restaurant-Website/
 
 ![Menu Screenshot](images/screenshots/menu.png)
 
+![Reviews Screenshot](images/screenshots/reviews.png)
 ---
 
 # ✨ Features
