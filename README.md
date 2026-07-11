@@ -6,7 +6,7 @@ This project focuses on clean UI design, responsive layouts, and interactive sec
 
 ## 🌐 Live Demo
 
-https://mehreensultana01.github.io/restaurant-website/
+https://github.com/mehreensultana01/Restaurant-Website
 
 ## 📸 Screenshots
 
